@@ -1,0 +1,134 @@
+body {
+	font-family: 'Arial', sans-serif;
+}
+section a, section a:hover, section a:visited {
+	color: #039;
+}
+section a:hover {
+	text-decoration: underline;
+}
+footer a, section.grey a, footer a:hover, section.grey a:hover, footer a:visited, section.grey a:visited {
+	color: #fff;
+	text-decoration: none;
+	border-bottom-style: dashed;
+	border-bottom-width: 1px;
+}
+
+header .intro-section .intro {
+    color: #ffffff;
+    margin-bottom: 36px;
+    line-height: 62px;
+}
+h1 {
+    font-weight: normal;
+    font-size: 60px;
+}
+h3 {
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.intro {
+	background-image: url(../img/main.png);
+	background-position: bottom center;
+	background-color: #187E89;
+}
+
+.wiki {
+	border: 1px solid #444;
+	border-radius: 5px;
+	padding: 10px;
+	width: 75%;
+	font-size: 150%;
+	margin: 0 auto;
+}
+.wiki a, .wiki a:visited {
+	color: #3399ff;
+}
+section.white {
+	background-color: #fff;
+	color: #313131;
+	width: 100%;
+}
+section.grey, section.grey h1, section.grey h2, section.grey h3 {
+	color: #fff;
+}
+.dark-text {
+    color: #272727;
+    font-family: "Lato";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 46px;
+    line-height: 40px;
+}
+.section-description p {
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	padding: 10px;
+	max-width: 880px;
+	font-size: 16px;
+	font-family: Arial, sans-serif;
+	font-weight: 300;
+	line-height: 22px;
+}
+
+.lead {
+	font-size: 17px;
+}
+
+@media(min-width:400px) {
+
+	.featurette {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+}
+
+.content-section {
+    padding-bottom: 50px;
+}
+.cloud-computing {
+    background-image: url(../img/computing-background.png);
+    background-position: bottom center;
+    padding-bottom: 200px;
+    margin-bottom: -70px;
+}
+.strategic h2 {
+	font-size: 22px;
+	margin-bottom: 15px;
+}
+.strategic p {
+	font-size: 17px;
+	color: #444;
+	line-height: 23.8px;
+}
+.strategic .icon {
+	height: 125px;
+}
+.fixed-bg {
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.stacks {
+	background-image: url(../img/stacks.jpg);
+}
+footer {
+	max-width: 600px;
+	margin: 0 auto;
+	color: #aaa;
+}
+.csu-wordmark {
+	float: left;	
+}
+.csu-text {
+	margin-left: 220px;
+	padding-top: 20px;
+}
+.csu-text p {
+	font-size: 15px;
+	margin-bottom: 10px;
+}
