@@ -1,3 +1,3 @@
 <http://scholarworks.dev.calstate.edu/vocabulary/fresno/departments/00001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://scholarworks.dev.calstate.edu/vocabulary/fresno/departments/00001> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henry Madden Library"@EN .
-<http://scholarworks.dev.calstate.edu/vocabulary/fresno/departments/00001> <http://www.w3.org/2004/02/skos/core#inScheme> <http://scholarworks.dev.calstate.edu/vocabularies/fresno/departments> .
+<http://scholarworks.dev.calstate.edu/vocabulary/fresno/departments/00001> <http://www.w3.org/2004/02/skos/core#inScheme> <http://scholarworks.dev.calstate.edu/vocabulary/fresno/departments> .
